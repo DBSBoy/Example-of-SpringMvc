@@ -1,0 +1,4 @@
+com\ibm\controller\HelloWorldController.class
+com\ibm\interceptor\MyInterceptor.class
+com\ibm\pojo\Student.class
+com\ibm\controller\UploadController.class
